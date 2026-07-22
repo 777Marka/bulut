@@ -38,7 +38,7 @@ const CONFIG = {
     {
       type: "chatbox",
       message:
-        "İyi ki doğdun Bulutt! 🎂 Sana sağlık, mutluluk, başarı ve bol kahkahalarla dolu harika bir yıl diliyorum. Hayatındaki tüm güzellikler hep seninle olsun. Nice mutlu yaşlara! Daima Yanındayız xlesh And Markaa💖❤️",
+        "İyi ki doğdun Bulutt! 🎂 Sana sağlık, mutluluk, başarı ve bol kahkahalarla dolu harika bir yıl diliyorum. Hayatındaki tüm güzellikler hep seninle olsun. Nice mutlu yaşlara! Daima Yanındayız xLesh And Markaa And Cordii❤️",
       buttonText: "Gönder",
     },
     {
@@ -69,7 +69,7 @@ const CONFIG = {
       type: "profile",
       wishTitle: "İyi ki Doğdun Nisaa! 🎂",
       wishText:
-        "Mutluluk, sağlık, başarı ve sevgi dolu nice yılların olsun. Gülüşün hiç eksik olmasın! Daimaa Yanındayızz Primee And Markaa💖",
+        "Mutluluk, sağlık, başarı ve sevgi dolu nice yılların olsun. Gülüşün hiç eksik olmasın! Daimaa Yanındayızz xLesh And Markaa And Cordii💖",
     },
     {
       type: "fireworks",
