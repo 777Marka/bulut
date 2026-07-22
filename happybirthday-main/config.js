@@ -1,6 +1,6 @@
 const CONFIG = {
   // ── Doğum Günü Sahibi ─────────────────────────────────────────
-  name: "Nisa",
+  name: "Bulut",
   photo: "./img/fuison.jpg",       // Fotoğrafı img klasörüne koy
   music: "./music/fuison.mpeg",      // Müziği music klasörüne koy
 
