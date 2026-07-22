@@ -38,7 +38,7 @@ const CONFIG = {
     {
       type: "chatbox",
       message:
-        "İyi ki doğdun Bulutt! 🎂 Sana sağlık, mutluluk, başarı ve bol kahkahalarla dolu harika bir yıl diliyorum. Hayatındaki tüm güzellikler hep seninle olsun. Nice mutlu yaşlara! Daima Yanındayız xLesh And Markaa And Cordii❤️",
+        "Yeni yaşın sana sağlık, mutluluk, huzur ve başarı getirsin. Hayal ettiğin her şeye ulaşman dileğiyle... Nice güzel yaşlara, birlikte kutlayacağımız daha nice doğum günlerine. İyi ki varsın, iyi ki doğdun can kardeşimiz. Doğum günün kutlu olsun! 🎂🥳🎈 Daima Yanındayız xLesh And Markaa And Cordii❤️",
       buttonText: "Gönder",
     },
     {
